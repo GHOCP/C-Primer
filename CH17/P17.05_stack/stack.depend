@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1641793654 source:d:\我的坚果云\mycode\234 stack\stack\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1641793569 d:\我的坚果云\mycode\234 stack\stack\stack.h
+	<stdbool.h>
+
+1641793948 source:d:\我的坚果云\mycode\234 stack\stack\string_stack.c
+	<stdio.h>
+	<string.h>
+	"stack.h"
+
+1641793654 source:d:\mycode\234 stack\stack\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1641793569 d:\mycode\234 stack\stack\stack.h
+	<stdbool.h>
+
+1641793948 source:d:\mycode\234 stack\stack\string_stack.c
+	<stdio.h>
+	<string.h>
+	"stack.h"
+
+1641796705 source:d:\mycode\234stack\stack\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1641793569 d:\mycode\234stack\stack\stack.h
+	<stdbool.h>
+
+1641796852 source:d:\mycode\234stack\stack\string_stack.c
+	<stdio.h>
+	<string.h>
+	"stack.h"
+

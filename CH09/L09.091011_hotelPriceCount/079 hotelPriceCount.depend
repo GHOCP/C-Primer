@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1637324220 source:d:\我的坚果云\mycode\079 hotelpricecount\hotel.c
+	<stdio.h>
+	"hotel.h"
+
+1637324404 d:\我的坚果云\mycode\079 hotelpricecount\hotel.h
+
+1637324459 source:d:\我的坚果云\mycode\079 hotelpricecount\main.c
+	<stdio.h>
+	"hotel.h"
+

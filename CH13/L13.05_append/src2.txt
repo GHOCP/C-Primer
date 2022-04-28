@@ -1,0 +1,6 @@
+ causes other
+files to be recognized as the standard input or standard output. The purpose of the standard
+error output file is to provide a logically distinct place to send error messages. If, for example,
+you use redirection to send output to a file instead of to the screen, output sent to the standard
+error output still goes to the screen. This is good because if the error messages were routed to
+the file, you would not see them until you viewed the file.

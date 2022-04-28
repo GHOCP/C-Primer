@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1640660978 source:d:\我的坚果云\mycode\213 name_st\name_st.c
+	<stdio.h>
+	"names_st.h"
+
+1640661291 d:\我的坚果云\mycode\213 name_st\names_st.h
+	<string.h>
+
+1640661015 source:d:\我的坚果云\mycode\213 name_st\useheader.c
+	<stdio.h>
+	"names_st.h"
+

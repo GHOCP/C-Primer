@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1641881656 source:d:\mycode\235word_count_tree\word_count_tree\tree.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1641871374 d:\mycode\235word_count_tree\word_count_tree\tree.h
+	<stdbool.h>
+
+1641879949 source:d:\mycode\235word_count_tree\word_count_tree\word_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"tree.h"
+

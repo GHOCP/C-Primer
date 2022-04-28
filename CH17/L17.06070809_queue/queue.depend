@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1641274895 source:d:\我的坚果云\mycode\232 queue\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1641780318 d:\我的坚果云\mycode\232 queue\queue.h
+	<stdbool.h>
+
+1641277188 source:d:\我的坚果云\mycode\232 queue\mall.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"queue.h"
+
+1641277188 source:d:\mycode\232queue\mall.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"queue.h"
+
+1641780318 d:\mycode\232queue\queue.h
+	<stdbool.h>
+
+1641274895 source:d:\mycode\232queue\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+

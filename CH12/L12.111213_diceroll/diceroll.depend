@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637647460 source:d:\我的坚果云\mycode\152 diceroll\diceroll.c
+	"diceroll.h"
+	<stdio.h>
+	<stdlib.h>
+
+1637647560 d:\我的坚果云\mycode\152 diceroll\diceroll.h
+

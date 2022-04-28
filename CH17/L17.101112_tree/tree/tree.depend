@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1641299947 source:d:\我的坚果云\mycode\233 tree\tree\tree.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1641296757 d:\我的坚果云\mycode\233 tree\tree\tree.h
+	<stdbool.h>
+

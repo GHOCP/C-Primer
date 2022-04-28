@@ -1,0 +1,6 @@
+The standard input, naturally, provides input to your program.
+It's the file that is read by getchar() and scanf() . The standard
+output is where normal program output goes. It is used
+by putchar() , puts() , and printf() . Redirection, as you
+learned in Chapter 8 , causes other files to be recognized
+as the standard input or standard output
